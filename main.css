@@ -1,0 +1,46 @@
+
+.image{
+    height: 200px;
+    object-fit: contain;
+}
+
+.nav-item a:hover{
+    background-color: #babe43;
+    border-radius: 10px;
+    transition: .3s ease;
+    color: white;
+    font-weight: 600;
+}
+
+.bondexPage {
+    color: #3030b1;
+    font-weight: 600;
+    text-shadow: 1px 1px #307692;
+    font-style: italic;
+}
+
+
+.bondexPage:hover{
+    text-shadow: 1px 1px #c04646;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,49 @@
+body{
+    background-color: silver;
+}
+
+.image{
+    height: 150px;
+    object-fit: contain;
+    border: solid 1px #8e6ee0;
+}
+
+.nav-item a:hover{
+    background-color: #babe43;
+    border-radius: 10px;
+    transition: .3s ease;
+    color: white;
+    font-weight: 600;
+}
+.row{
+    display: block;
+}
+.pageIsFound{
+    text-align: center;
+}
+.titleInfo{
+    text-shadow: 1px 1px darkblue;
+    font-size: large;
+}
+.backHome{
+    letter-spacing: 1px;
+    transition: .3s ease;
+    font-weight: 600;
+}
+.backHome:hover{
+    background-color: #2623a9;
+}
+.bondexPage {
+    color: #3030b1;
+    font-weight: 600;
+    text-shadow: 1px 1px #307692;
+    font-style: italic;
+}
+.bondexPage:hover{
+    text-shadow: 1px 1px #c04646;
+}
+
+
+
+
+
